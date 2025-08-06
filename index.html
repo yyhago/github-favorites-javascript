@@ -20,7 +20,7 @@
         
         <div class="boxContainer">
             <input class="inputSearch" type="text" placeholder="Digite o username do GitHub...">
-            <button class="buttonSearch">
+            <button onclick="pesquisarUsuario(event)" class="buttonSearch">
                 <i class="bi bi-plus"></i>
             </button>
         </div>
@@ -28,7 +28,7 @@
         <div class="boxContainerContent">
             <div class="userCard">
                 <div class="userAvatar">
-                    <img src="https://github.com/github.png" alt="User Avatar">
+                    <img id="avatar_url" src="https://github.com/github.png" alt="User Avatar">
                     <div class="statusIndicator"></div>
                 </div>
                 
