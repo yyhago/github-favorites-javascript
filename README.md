@@ -18,6 +18,8 @@
 
 O **GitHub Favorites** é uma Single Page Application (SPA) desenvolvida como parte do desafio da Rocketseat Explorer - Stage 06. O projeto permite aos usuários pesquisar perfis de desenvolvedores no GitHub e adicioná-los a uma lista personalizada de favoritos, facilitando o acompanhamento de seus desenvolvedores preferidos.
 
+![Screan01](./assets/image.png)
+
 ### ✨ Funcionalidades
 
 - 🔍 **Busca de usuários**: Pesquise qualquer perfil público do GitHub
